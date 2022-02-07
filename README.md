@@ -1,5 +1,9 @@
 
-This Dashbord illustrates the Bitcoin Sentiment from september to October 2021 in Twitter. Here is what the app looks like : 
+I created a Dashbord that illustrates the Bitcoin Twitter Sentiment from september to October 2021.
+
+- After installing all dependencies, you can also open it on you computer by running : `streamlit run dashbord.py`
+  
+Please find below what the app looks like : 
 
 <img width="745" alt="Capture d’écran 2022-02-07 à 18 27 15" src="https://user-images.githubusercontent.com/72793973/152840220-8464ca1c-c376-4d21-a8c8-2932256bc44c.png">
 
