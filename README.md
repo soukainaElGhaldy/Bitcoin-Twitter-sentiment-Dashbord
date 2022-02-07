@@ -7,7 +7,9 @@ This Dashbord illustrates the Bitcoin Sentiment from september to October 2021 i
 
 <img width="758" alt="Capture d’écran 2022-02-07 à 18 34 52" src="https://user-images.githubusercontent.com/72793973/152841435-8bacc62f-82a9-4df8-babd-f9fe9f73d658.png">
 
-<img width="773" alt="Capture d’écran 2022-02-07 à 18 32 06" src="https://user-images.githubusercontent.com/72793973/152840989-d92c2b04-d1d6-432c-93c2-e25e802a85a5.png">
+
+<img width="763" alt="Capture d’écran 2022-02-07 à 18 38 14" src="https://user-images.githubusercontent.com/72793973/152841955-83f808e5-271b-48f6-8068-102e2ff66bf3.png">
+
 
 <img width="776" alt="Capture d’écran 2022-02-07 à 18 36 09" src="https://user-images.githubusercontent.com/72793973/152841627-b36944d2-bb06-4d9d-b8b5-7af24637c670.png">
 
